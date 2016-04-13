@@ -4,7 +4,7 @@
   "description": "",
   "main": "hello.js",
   "scripts": {
-    "test": "node hello.js"
+    "test": "node ./node_modules/jshint/bin/jshint hello.js"
   },
   "repository": {
     "type": "git",
